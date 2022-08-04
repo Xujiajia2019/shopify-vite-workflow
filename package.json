@@ -1,0 +1,17 @@
+{
+  "name": "demo-store",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node build.js",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  },
+  "dependencies": {
+    "rollup-plugin-copy": "^3.4.0"
+  }
+}
