@@ -9,9 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "sass": "^1.54.4",
     "vite": "^3.0.0"
   },
   "dependencies": {
     "rollup-plugin-copy": "^3.4.0"
+  },
+  "volta": {
+    "node": "16.16.0"
   }
 }

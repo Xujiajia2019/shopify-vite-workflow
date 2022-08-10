@@ -19,8 +19,7 @@ export default defineConfig({
     publicDir: false,
     rollupOptions: {
       input: {
-        'base': 'src/base/index.js',
-        'footer': 'src/sections/footer/index.js'
+        'base': 'src/base/index.js'
       },
       output: {
         dir: 'built/assets',

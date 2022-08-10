@@ -1,6 +1,6 @@
 // main.js
-import { count, increment } from '../sections/footer/index';
-import './index.css'
+import { count, increment } from '../sections/product/index';
+import './index.scss'
 
 console.log(count); // 0
 increment();
